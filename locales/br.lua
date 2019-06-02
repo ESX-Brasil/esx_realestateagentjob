@@ -8,20 +8,20 @@ Locales['br'] = {
   ['amount'] = 'quantidade',
   ['no_play_near'] = 'nenhum jogador nas proximidades',
   ['realtors'] = 'agente Imobiliário',
-  ['boss_action'] = 'boss Actions',
-  ['client_poor'] = 'your client cannot afford that',
+  ['boss_action'] = 'Ações do chefe',
+  ['client_poor'] = 'seu cliente não pode pagar isso',
 
   -- Property menu
   ['property_name'] = 'propriedade',
-  ['property_actions'] = 'actions',
-  ['property_actionbuttons'] = '{{Assign [Sell]|sell}} {{Assign [Rent]|rent}} {{GPS|gps}}',
+  ['property_actions'] = 'ações',
+  ['property_actionbuttons'] = '{{Atribuir [Vender]|vender}} {{Atribuir [Aluguel]|aluguel}} {{GPS|gps}}',
 
   -- Customer menu
   ['customer_client'] = 'clientes',
   ['customer_property'] = 'propriedade',
-  ['customer_agreement'] = 'agreement',
-  ['customer_actions'] = 'actions',
-  ['customer_contractbuttons'] = '{{Revoke contract|revoke}} {{GPS|gps}}',
+  ['customer_agreement'] = 'acordo',
+  ['customer_actions'] = 'ações',
+  ['customer_contractbuttons'] = '{{Revogar contrato|revogar}} {{GPS|gps}}',
   ['customer_rent'] = 'alugar',
   ['customer_sell'] = 'vender',
 }

@@ -1,31 +1,31 @@
 # esx_realestateagentjob
 
-## Requirements
-- [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
-- [esx_property](https://github.com/ESX-Org/esx_property)
-- [esx_society](https://github.com/ESX-Org/esx_society)
+## Requisitos
+- [esx_addonaccount](https://github.com/ESX-Brasil/esx_addonaccount)
+- [esx_property](https://github.com/ESX-Brasil/esx_property)
+- [esx_society](https://github.com/ESX-Brasil/esx_society)
 
-## Download & Installation
+## Download e Instalação
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
+### Usando [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_realestateagentjob
+fvm install --save --folder=esx ESX-Brasil/esx_realestateagentjob
 ```
 
-### Using Git
+### Usando o Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_realestateagentjob [esx]/esx_realestateagentjob
+git clone https://github.com/ESX-Brasil/esx_realestateagentjob [esx]/esx_realestateagentjob
 ```
 
-### Manually
-- Download https://github.com/ESX-Org/esx_realestateagentjob/archive/master.zip
-- Put it in the `[esx]` directory
+### Manualmente
+- Download https://github.com/ESX-Brasil/esx_realestateagentjob/archive/master.zip
+- Coloque-o no diretório `[esx]`
 
-## Installation
-- Add `start esx_realestateagentjob` to your `server.cfg`
-- Import `esx_realestateagentjob.sql` in your database
-- Set `Config.EnablePlayerManagement` to `true` in esx_property
+## Instalação
+- Adicione o `start esx_realestateagentjob` ao seu` server.cfg`
+- Importe `esx_realestateagentjob.sql` em seu banco de dados
+- Defina `Config.EnablePlayerManagement` como` true` em esx_property
 
 # Legal
 ### License
