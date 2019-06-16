@@ -2,7 +2,7 @@ Config              = {}
 Config.DrawDistance = 100.0
 Config.MarkerColor  = { r = 120, g = 120, b = 240 }
 Config.Locale       = 'br'
-
+-- Zonas de ações
 Config.Zones = {
 	OfficeEnter = {
 		Pos   = { x = -199.151, y = -575.000, z = 39.489 },

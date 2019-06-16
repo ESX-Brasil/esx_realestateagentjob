@@ -11,12 +11,12 @@ Locales['br'] = {
   ['boss_action'] = 'Ações do chefe',
   ['client_poor'] = 'seu cliente não pode pagar isso',
 
-  -- Property menu
+  -- Menu de propriedades
   ['property_name'] = 'propriedade',
   ['property_actions'] = 'ações',
   ['property_actionbuttons'] = '{{Atribuir [Vender]|vender}} {{Atribuir [Aluguel]|aluguel}} {{GPS|gps}}',
 
-  -- Customer menu
+  -- Menu do cliente
   ['customer_client'] = 'clientes',
   ['customer_property'] = 'propriedade',
   ['customer_agreement'] = 'acordo',

@@ -1,3 +1,5 @@
+--ESX-Brasil
+
 local hasAlreadyEnteredMarker, CurrentActionData = false, {}
 local CurrentAction, CurrentActionMsg, LastZone
 ESX = nil
